@@ -7,12 +7,12 @@ public class AppTest {
 
 	@Test
 	public void aaa() {
-		System.out.println("************ cccc A *************");
+		System.out.println("************ A A *************");
 	}
 
 	@Test
 	public void bbb() {
-		System.out.println("************ B fffB *************");
+		System.out.println("************ B B *************");
 	}
 
 	@Test(groups = { "Sniff", "Regression" })
